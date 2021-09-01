@@ -3,7 +3,7 @@
 ## I'm a Software Developer
 
 - ⚡ I’m currently learning many tools
-- 🥅 2020 Goals: Make many projects
+- 🥅 2021 Goals: Make many projects
 
 ### Connect with me:
 
