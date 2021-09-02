@@ -4,9 +4,7 @@
 
 - ⚡ I’m currently learning many tools
 - 🥅 2021 Goals: Make many 
-
 <br />
-
 - 📚 I speak English, German and Russian
 
 ### Connect with me:
