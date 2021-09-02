@@ -4,15 +4,10 @@
 
 - ⚡ I’m currently learning many tools
 - 🥅 2021 Goals: Make many 
+
 <br />
 
 - :star: I speak English, German and Russian
-
-### Connect with me:
-
-[<img align="left" alt="AlexAVmp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
@@ -31,3 +26,13 @@
 <br />
 
 [linkedin]: https://linkedin.com
+
+### Connect with me:
+
+[<img align="left" alt="AlexAVmp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+##
+
+### I am currently open to job offer.
