@@ -3,7 +3,9 @@
 ## I'm a Software Developer
 
 - ⚡ I’m currently learning many tools
-- 🥅 2021 Goals: Make many projects
+- 🥅 2021 Goals: Make many 
+
+- 📚 I speak English, German and Russian
 
 ### Connect with me:
 
