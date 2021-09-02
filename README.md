@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: Make many 
 <br />
 
-- 📚 I speak English, German and Russian
+- :star: I speak English, German and Russian
 
 ### Connect with me:
 
