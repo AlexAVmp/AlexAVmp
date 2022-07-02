@@ -1,11 +1,10 @@
-### Hi there, I'm Aliaksandr - aka AlexAVmp 👋
+### Hi there, I'm Aliaksandr - aka AlexAVmp
 
 ## I'm a Software Developer
 
-
 <br />
 
-- :star: I speak English, German and Russian
+:star: I speak English, German and Russian
 
 ### Languages and Tools:
 
